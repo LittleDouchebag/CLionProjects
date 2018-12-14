@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Lenovo/CLionProjects/HappyCoding/range4practice.cpp
+iostream
+-
+vector
+-
+range4practice.h
+/cygdrive/c/Users/Lenovo/CLionProjects/HappyCoding/range4practice.h
+
+/cygdrive/c/Users/Lenovo/CLionProjects/HappyCoding/range4practice.h
+
