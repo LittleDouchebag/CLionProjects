@@ -83,6 +83,12 @@
 		<Unit filename="/cygdrive/c/Users/Lenovo/CLionProjects/HappyCoding/Sales_data.h">
 			<Option target="HappyCoding"/>
 		</Unit>
+		<Unit filename="/cygdrive/c/Users/Lenovo/CLionProjects/HappyCoding/iteratorPractice.cpp">
+			<Option target="HappyCoding"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Lenovo/CLionProjects/HappyCoding/iteratorPractice.h">
+			<Option target="HappyCoding"/>
+		</Unit>
 		<Unit filename="/cygdrive/c/Users/Lenovo/CLionProjects/HappyCoding/main.cpp">
 			<Option target="HappyCoding"/>
 		</Unit>
@@ -114,6 +120,12 @@
 			<Option target="HappyCoding"/>
 		</Unit>
 		<Unit filename="/cygdrive/c/Users/Lenovo/CLionProjects/HappyCoding/range4practice.h">
+			<Option target="HappyCoding"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Lenovo/CLionProjects/HappyCoding/twoPointSearch.cpp">
+			<Option target="HappyCoding"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Lenovo/CLionProjects/HappyCoding/twoPointSearch.h">
 			<Option target="HappyCoding"/>
 		</Unit>
 		<Unit filename="/cygdrive/c/Users/Lenovo/CLionProjects/HappyCoding/CMakeLists.txt">

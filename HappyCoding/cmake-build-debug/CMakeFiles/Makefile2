@@ -71,7 +71,7 @@ CMAKE_BINARY_DIR = /cygdrive/c/Users/Lenovo/CLionProjects/HappyCoding/cmake-buil
 CMakeFiles/HappyCoding.dir/all:
 	$(MAKE) -f CMakeFiles/HappyCoding.dir/build.make CMakeFiles/HappyCoding.dir/depend
 	$(MAKE) -f CMakeFiles/HappyCoding.dir/build.make CMakeFiles/HappyCoding.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/cygdrive/c/Users/Lenovo/CLionProjects/HappyCoding/cmake-build-debug/CMakeFiles --progress-num=1,2,3,4,5,6,7 "Built target HappyCoding"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/cygdrive/c/Users/Lenovo/CLionProjects/HappyCoding/cmake-build-debug/CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9 "Built target HappyCoding"
 .PHONY : CMakeFiles/HappyCoding.dir/all
 
 # Include target in all.
@@ -81,7 +81,7 @@ all: CMakeFiles/HappyCoding.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/HappyCoding.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /cygdrive/c/Users/Lenovo/CLionProjects/HappyCoding/cmake-build-debug/CMakeFiles 7
+	$(CMAKE_COMMAND) -E cmake_progress_start /cygdrive/c/Users/Lenovo/CLionProjects/HappyCoding/cmake-build-debug/CMakeFiles 9
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/HappyCoding.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /cygdrive/c/Users/Lenovo/CLionProjects/HappyCoding/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/HappyCoding.dir/rule

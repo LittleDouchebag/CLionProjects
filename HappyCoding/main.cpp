@@ -5,11 +5,11 @@
 #include "Sales_data.h"
 #include "p66.h"
 #include "range4practice.h"
-
+#include "iteratorPractice.h"
+#include "twoPointSearch.h"
 using std::cin;
 using std::cout;
 using std::endl;
-
 using std::string;
 
 int main() {
@@ -17,6 +17,10 @@ int main() {
 //    p13();
 //    p15();
 //    p66();
-    range4practice();
+//    range4practice();
+//    iteratorPractice();
+//    twoPointSearch();
+
+    return 0;
 }
 

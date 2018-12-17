@@ -1,0 +1,8 @@
+//
+// Created by Lenovo on 2018/12/14.
+//
+
+#ifndef HAPPYCODING_ITERATORPRACTICE_H
+#define HAPPYCODING_ITERATORPRACTICE_H
+void iteratorPractice();
+#endif //HAPPYCODING_ITERATORPRACTICE_H

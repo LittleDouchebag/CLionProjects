@@ -123,6 +123,33 @@ HappyCoding/fast:
 	$(MAKE) -f CMakeFiles/HappyCoding.dir/build.make CMakeFiles/HappyCoding.dir/build
 .PHONY : HappyCoding/fast
 
+iteratorPractice.o: iteratorPractice.cpp.o
+
+.PHONY : iteratorPractice.o
+
+# target to build an object file
+iteratorPractice.cpp.o:
+	$(MAKE) -f CMakeFiles/HappyCoding.dir/build.make CMakeFiles/HappyCoding.dir/iteratorPractice.cpp.o
+.PHONY : iteratorPractice.cpp.o
+
+iteratorPractice.i: iteratorPractice.cpp.i
+
+.PHONY : iteratorPractice.i
+
+# target to preprocess a source file
+iteratorPractice.cpp.i:
+	$(MAKE) -f CMakeFiles/HappyCoding.dir/build.make CMakeFiles/HappyCoding.dir/iteratorPractice.cpp.i
+.PHONY : iteratorPractice.cpp.i
+
+iteratorPractice.s: iteratorPractice.cpp.s
+
+.PHONY : iteratorPractice.s
+
+# target to generate assembly for a file
+iteratorPractice.cpp.s:
+	$(MAKE) -f CMakeFiles/HappyCoding.dir/build.make CMakeFiles/HappyCoding.dir/iteratorPractice.cpp.s
+.PHONY : iteratorPractice.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -285,6 +312,33 @@ range4practice.cpp.s:
 	$(MAKE) -f CMakeFiles/HappyCoding.dir/build.make CMakeFiles/HappyCoding.dir/range4practice.cpp.s
 .PHONY : range4practice.cpp.s
 
+twoPointSearch.o: twoPointSearch.cpp.o
+
+.PHONY : twoPointSearch.o
+
+# target to build an object file
+twoPointSearch.cpp.o:
+	$(MAKE) -f CMakeFiles/HappyCoding.dir/build.make CMakeFiles/HappyCoding.dir/twoPointSearch.cpp.o
+.PHONY : twoPointSearch.cpp.o
+
+twoPointSearch.i: twoPointSearch.cpp.i
+
+.PHONY : twoPointSearch.i
+
+# target to preprocess a source file
+twoPointSearch.cpp.i:
+	$(MAKE) -f CMakeFiles/HappyCoding.dir/build.make CMakeFiles/HappyCoding.dir/twoPointSearch.cpp.i
+.PHONY : twoPointSearch.cpp.i
+
+twoPointSearch.s: twoPointSearch.cpp.s
+
+.PHONY : twoPointSearch.s
+
+# target to generate assembly for a file
+twoPointSearch.cpp.s:
+	$(MAKE) -f CMakeFiles/HappyCoding.dir/build.make CMakeFiles/HappyCoding.dir/twoPointSearch.cpp.s
+.PHONY : twoPointSearch.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -294,6 +348,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... HappyCoding"
 	@echo "... edit_cache"
+	@echo "... iteratorPractice.o"
+	@echo "... iteratorPractice.i"
+	@echo "... iteratorPractice.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
@@ -312,6 +369,9 @@ help:
 	@echo "... range4practice.o"
 	@echo "... range4practice.i"
 	@echo "... range4practice.s"
+	@echo "... twoPointSearch.o"
+	@echo "... twoPointSearch.i"
+	@echo "... twoPointSearch.s"
 .PHONY : help
 
 

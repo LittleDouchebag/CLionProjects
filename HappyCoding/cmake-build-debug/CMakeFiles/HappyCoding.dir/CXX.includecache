@@ -6,13 +6,41 @@
 
 #IncludeRegexTransform: 
 
-/cygdrive/c/Users/Lenovo/CLionProjects/HappyCoding/range4practice.cpp
+/cygdrive/c/Users/Lenovo/CLionProjects/HappyCoding/Sales_data.h
 iostream
 -
-vector
+
+/cygdrive/c/Users/Lenovo/CLionProjects/HappyCoding/iteratorPractice.h
+
+/cygdrive/c/Users/Lenovo/CLionProjects/HappyCoding/main.cpp
+iostream
 -
+p5.h
+/cygdrive/c/Users/Lenovo/CLionProjects/HappyCoding/p5.h
+p13.h
+/cygdrive/c/Users/Lenovo/CLionProjects/HappyCoding/p13.h
+p15.h
+/cygdrive/c/Users/Lenovo/CLionProjects/HappyCoding/p15.h
+Sales_data.h
+/cygdrive/c/Users/Lenovo/CLionProjects/HappyCoding/Sales_data.h
+p66.h
+/cygdrive/c/Users/Lenovo/CLionProjects/HappyCoding/p66.h
 range4practice.h
 /cygdrive/c/Users/Lenovo/CLionProjects/HappyCoding/range4practice.h
+iteratorPractice.h
+/cygdrive/c/Users/Lenovo/CLionProjects/HappyCoding/iteratorPractice.h
+twoPointSearch.h
+/cygdrive/c/Users/Lenovo/CLionProjects/HappyCoding/twoPointSearch.h
+
+/cygdrive/c/Users/Lenovo/CLionProjects/HappyCoding/p13.h
+
+/cygdrive/c/Users/Lenovo/CLionProjects/HappyCoding/p15.h
+
+/cygdrive/c/Users/Lenovo/CLionProjects/HappyCoding/p5.h
+
+/cygdrive/c/Users/Lenovo/CLionProjects/HappyCoding/p66.h
 
 /cygdrive/c/Users/Lenovo/CLionProjects/HappyCoding/range4practice.h
+
+/cygdrive/c/Users/Lenovo/CLionProjects/HappyCoding/twoPointSearch.h
 

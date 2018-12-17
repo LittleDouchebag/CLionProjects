@@ -5,6 +5,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/HappyCoding.dir/p15.cpp.o"
   "CMakeFiles/HappyCoding.dir/p66.cpp.o"
   "CMakeFiles/HappyCoding.dir/range4practice.cpp.o"
+  "CMakeFiles/HappyCoding.dir/iteratorPractice.cpp.o"
+  "CMakeFiles/HappyCoding.dir/twoPointSearch.cpp.o"
   "HappyCoding.pdb"
   "HappyCoding.exe"
   "libHappyCoding.dll.a"
